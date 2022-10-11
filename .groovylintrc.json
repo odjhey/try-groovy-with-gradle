@@ -1,0 +1,24 @@
+{
+    "extends": "recommended",
+    "rules": {
+        "CompileStatic": {
+            "enabled": false
+        },
+        "DuplicateNumberLiteral": {
+            "enabled": false
+        },
+        "DuplicateStringLiteral": {
+            "enabled": false
+        },
+        "NoDef": {
+            "enabled": false
+        },
+        "UnnecessaryBigDecimalInstantiation": {
+            "enabled": false
+        },
+        "VariableTypeRequired": {
+            "enabled": false
+        },
+        "comments.ClassJavadoc": "off"
+    }
+}
